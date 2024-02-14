@@ -1,1 +1,1 @@
-# helldivers-ship-name-generator
+# Helldivers Ship Name Generator

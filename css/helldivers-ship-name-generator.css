@@ -1,0 +1,35 @@
+body {
+    background-image: url(../image/background/wallpaper_helldivers_2_02_1920x1080.jpg);
+    background-color: black;
+}
+
+body > div.header > h3.header {
+    margin: 20px 20px 20px 20px;
+}
+
+div.alpha-background {
+    background-color: rgba(0,0,0, 0.8);
+}
+
+div.top {
+    margin-top: 40px;
+}
+
+div.rounded-corners {
+    border-radius: 25px;
+    padding: 20px 20px 20px 20px;
+}
+
+div.rounded-corners .header {
+    margin-top: 0px;
+}
+
+div#random-names div.text,
+div#saved-names div.text {
+    font-size: 1.4rem;
+}
+
+div#random-names a.btn-floating,
+div#saved-names a.btn-floating {
+    margin-left: 10px;
+}
