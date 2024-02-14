@@ -73,6 +73,7 @@ window.hdsng = (function () {
 
         names.sort();
 
+        jQuery("div.name-list").removeClass("hidden");
         jQuery("#random-names").empty();
         jQuery.each(names, _addNameToRandomList);
     }

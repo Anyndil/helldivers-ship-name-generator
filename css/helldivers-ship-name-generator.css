@@ -5,6 +5,10 @@ body {
     background-color: black;
 }
 
+.hidden {
+    display: none;
+}
+
 body > div.header > h3.header {
     margin: 20px 20px 20px 20px;
 }
